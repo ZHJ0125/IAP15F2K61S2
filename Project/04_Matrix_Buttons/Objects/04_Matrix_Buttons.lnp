@@ -1,3 +1,4 @@
-".\Objects\main.obj" 
+".\Objects\main.obj",
+".\Objects\button.obj" 
 TO ".\Objects\04_Matrix_Buttons" 
 PRINT(".\Listings\04_Matrix_Buttons.m51") RAMSIZE(256) 
