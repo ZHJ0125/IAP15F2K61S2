@@ -1,3 +1,4 @@
-".\Objects\main.obj" 
+".\Objects\main.obj",
+".\Objects\tube.obj" 
 TO ".\Objects\02_Digital_Tube_Static_Display" 
 PRINT(".\Listings\02_Digital_Tube_Static_Display.m51") RAMSIZE(256) 
