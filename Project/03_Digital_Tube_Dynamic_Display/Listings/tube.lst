@@ -1,4 +1,4 @@
-C51 COMPILER V9.57.0.0   TUBE                                                              04/04/2020 19:17:26 PAGE 1   
+C51 COMPILER V9.57.0.0   TUBE                                                              04/04/2020 19:34:05 PAGE 1   
 
 
 C51 COMPILER V9.57.0.0, COMPILATION OF MODULE TUBE
@@ -62,7 +62,7 @@ line level    source
   52          void tube_show(uint number, uchar segment)
   53          {
   54   1              tube_selection(OFF_SELECTION);
-C51 COMPILER V9.57.0.0   TUBE                                                              04/04/2020 19:17:26 PAGE 2   
+C51 COMPILER V9.57.0.0   TUBE                                                              04/04/2020 19:34:05 PAGE 2   
 
   55   1              tube_segment(number);
   56   1              tube_selection(segment);
